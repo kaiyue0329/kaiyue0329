@@ -1,16 +1,19 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hello, I'm Kaiyue 👋</b></h1>
+</p>
 
-<!--
-**kaiyue0329/kaiyue0329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/kaiyue0329" />
+</p>
 
-Here are some ideas to get you started:
+### I am a Software Engineering Student at McGill University
+- :heart:  I love building apps and websites that solve critical issues for people
+- :seedling:  Always Learning
+- 💬 Ask me about anything, I am happy to help :smile:
+- :mailbox_with_mail: How to reach me: [Let's get in touch!](https://www.linkedin.com/in/kaiyue-pan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages, frameworks and Tools: 
+* **Full Stack**: React, React Native, Expo, Redux, Node, Express, Docker, Sequelize, PostgreSQL, Git/Github, Heroku
+* **Programming Languages**: TypeScript, JavaScript, Java, Python, OCaml, C, SQL, HTML5, CSS3, Bash
+* **Coursework**: Agile Methodologies, MVC, TDD, Operating Systems, Human-Computer Interaction, Algorithm Design, Functional Programming
