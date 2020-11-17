@@ -14,6 +14,6 @@
 
 
 ### Languages, frameworks and Tools: 
-* **Full Stack**: React, React Native, Expo, Redux, Node, Express, Docker, Sequelize, PostgreSQL, Git/Github, Heroku
+* **Full Stack**: React, Redux, Node, Express, Docker, Sequelize, PostgreSQL, Git/Github, Heroku, React Native, Expo 
 * **Programming Languages**: TypeScript, JavaScript, Java, Python, OCaml, C, SQL, HTML5, CSS3, Bash
 * **Coursework**: Agile Methodologies, MVC, TDD, Operating Systems, Human-Computer Interaction, Algorithm Design, Functional Programming
